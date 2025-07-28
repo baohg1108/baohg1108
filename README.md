@@ -1,6 +1,6 @@
 ### 👋 Greeting 
 Hello there!
-I'm [Hoang Gia Bao](https://github.com/baohg1108), a second-year Information Technology student at Ho Chi Minh City University ò Transport (UTH). I'm always on the lookout for opportunities to learn, grow, and listen to new ideas.
+I'm [Hoang Gia Bao](https://github.com/baohg1108), a second-year Information Technology student at Ho Chi Minh City University of Transport (UTH). I'm always on the lookout for opportunities to learn, grow, and listen to new ideas.
 
 Driven by a proactive and curious mindset, I believe my knowledge and skills can bring value to our community. I'm eager to connect and support you all in tackling challenges and building amazing things together. Let's create something great!
 
