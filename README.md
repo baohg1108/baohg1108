@@ -16,7 +16,7 @@ Driven by a proactive and curious mindset, I believe my knowledge and skills can
 📧 Email: [baohg2455@gmail.com] <br>
 📞 Phone: [+84 388661185] <br>
 🌐 Portfolio: [#] <br>
-💼 LinkedIn: [https://www.linkedin.com/in/gbao1108/]
+💼 LinkedIn: [https://www.linkedin.com/in/baohg1108/]
 
 ### ✨ Notes
 *"Turning Ideas into Impact"*
