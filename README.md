@@ -6,10 +6,10 @@ Driven by a proactive and curious mindset, I believe my knowledge and skills can
 
 ### 🚀 What I can do ?
 - Languages: C++/C, JavaScript, Go, Python
-- Frontend: HTML, CSS, React
-- Backend: Node.js, Express.js, Nest.js
+- Frontend: HTML, CSS, ReactJS + MUI
+- Backend: Node.js, Express.js, Nest.js basic
 - Databases: MongoDB, My SQL
-- Cloud & Tools: Docker basic, Kubernetes, VsCode, Postman, Jira
+- Cloud & Tools: Docker basic, VsCode, Postman, Jira, Trello
 
 ### 🌍 Connect With Me! 
 📧 Email: [hoanggiabao110820055@gmail.com] <br>
