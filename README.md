@@ -1,24 +1,62 @@
-###  Greeting 
-Hello there!
-I'm [Hoang Gia Bao](https://github.com/baohg1108), a second-year Information Technology student at Ho Chi Minh City University of Transport (UTH). I'm always on the lookout for opportunities to learn, grow, and listen to new ideas.
+# Hi, I'm Bảo 👋
 
-Driven by a proactive and curious mindset, I believe my knowledge and skills can bring value to our community. I'm eager to connect and support you all in tackling challenges and building amazing things together. Let's create something great!
+🎓 IT Student | 💻 Backend Developer | 🚀 Node.js Enthusiast
+📍 Ho Chi Minh City, Vietnam
 
-###  What I can do ?
-- Languages: C++/C, JavaScript, Java, Go(basic)
-- Frontend: HTML, CSS, ReactJS + MUI
-- Backend: Node.js, Express.js
-- Databases: MongoDB, My SQL
-- Cloud & Tools: Docker(basic), VsCode, Postman, Jira, Trello
+---
 
-###  Connect With Me! 
-📧 Email: [hoanggiabao110820055@gmail.com] <br>
-📧 Email: [baohg2455@gmail.com] <br>
-📞 Phone: [+84 388661185] <br>
-🌐 Portfolio: [https://fullstack-portfolio-eight-olive.vercel.app/] <br>
-💼 LinkedIn: [https://www.linkedin.com/in/baohg1108/]
+## 🧠 About Me
 
-### ✨ Notes
-*"Turning Ideas into Impact"*
-<!--
-**Giabao11082005/Giabao11082005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 2nd-year Information Technology student in HCMUT
+* 🛠️ Focus: Backend Development
+* 🧩 Learning System Design & Microservices
+* ⚡ Interested in AI + DevTools + Automation
+
+> “Code. Break. Fix. Scale. Repeat.”
+
+---
+
+
+## ⚙️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+
+---
+
+## 🚀 Current Projects
+
+
+- 🦞 [Demo1](https://github.com/baohg1108) - The AI that actually does things  
+- 🚇 [Demo1](https://github.com/baohg1108) - Turn any browser into your terminal; command agents from the road  
+- 🎚️ [Demo1](https://github.com/baohg1108) - Keep agent token limits in view  
+- 🚀 [Demo1](https://github.com/baohg1108) - Lightning-fast macOS screenshots & GUI automation
+- 
+---
+
+## 🌐 Connect With Me
+
+* 📘 Facebook: facebook/gbao1108
+* 📧 Email: [baohg2455@gmail.com](mailto:baohg2455@gmail.com)
+* 📱 Zalo: +84388661185
+
+
+---
+
+## ⚡ Fun Fact
+
+* 🦄 I like unicorns
+* ⚽ I play football
+* 🎮 I play video games
+* 🤖 I love automation tools
+
+
