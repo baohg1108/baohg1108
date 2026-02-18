@@ -36,13 +36,20 @@
 ## 🚀 Current Projects
 
 
-- 🦞 [Demo1](https://github.com/baohg1108) - The AI that actually does things  
-- 🚇 [Demo1](https://github.com/baohg1108) - Turn any browser into your terminal; command agents from the road  
-- 🎚️ [Demo1](https://github.com/baohg1108) - Keep agent token limits in view  
-- 🚀 [Demo1](https://github.com/baohg1108) - Lightning-fast macOS screenshots & GUI automation
-- 
+- 🦞 [E-commerce-Backend](https://github.com/baohg1108) - Coming soon ! 
+- 🚇 [E-commerce-Frontend](https://github.com/baohg1108) - End !
+- 🎚️ [Boardy-Backend](https://github.com/baohg1108) - Clone Trello app 
+- 🚀 [Boardy-Frontend](https://github.com/baohg1108) - Clone Trello app
+- Coming soon !
 ---
 
+## 🚀 Last Projects
+
+
+- 🦞 [Project_Java_UT](https://github.com/baohg1108) - Application management EVM  
+- 🚇 [Project_System_Operating_UT](https://github.com/baohg1108) - Traffic violation detection app and and send notifications to the nearest authorities for handling, inheriting from the ITS project
+- 🎚️ [Project_Management_UT](https://github.com/baohg1108) - A simple application for optimizing database queries
+- 🎚️ [Project_ITS_UT](https://github.com/baohg1108) - Traffic violation detection app use YOLOv8 
 ## 🌐 Connect With Me
 
 * 📘 Facebook: facebook/gbao1108
