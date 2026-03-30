@@ -1,69 +1,121 @@
-# Hi, I'm Bảo 👋
+# Hi, I'm Hoàng Gia Bảo 👋
 
-🎓 IT Student | 💻 Backend Developer | 🚀 Node.js Enthusiast
-📍 Ho Chi Minh City, Vietnam
+🎓 IT Student | 💻 Backend Engineer  
+📍 Ho Chi Minh City, Vietnam  
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 2nd-year Information Technology student in HCMUT
-* 🛠️ Focus: Backend Development
-* 🧩 Learning System Design & Microservices
-* ⚡ Interested in AI + DevTools + Automation
+- 🎓 3rd-year Information Technology student  
+- 💻 Focus on Backend Development  
+- ⚙️ Building real-world projects to improve practical skills  
+- 📚 Learning API design, database design, and system thinking  
 
-> “Code. Break. Fix. Scale. Repeat.”
+> *“Keep building. Keep learning.”*
 
 ---
-
 
 ## ⚙️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Languages**
+- JavaScript, TypeScript, PHP (basic), Go (basic)  
 
+**Backend**
+- Node.js (Express, Next.js)  
+- PHP (Laravel - basic)
 
+**Frontend**
+- Next.js  
+- HTML, CSS  
+
+**Database**
+- MySQL, MongoDB, Prisma  
+
+**Tools**
+- Redis, Docker  
+- Git, GitHub, Postman  
+- Trello, Swagger  
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects
 
+### 🛒 Multi-Vendor E-commerce (Next.js)
+- **Description**:  
+  E-commerce platform supporting multiple vendors  
+- **Main Work**:
+  - Build backend APIs and integrate with Next.js frontend  
+  - Implement authentication and role management (user / vendor / admin)  
+  - Handle product, order, and basic cart features  
+- **Tech Stack**:  
+  Next.js, Node.js, MySQL  
+- **Status**: Coming soon  
 
-- 🦞 [E-commerce-Backend](https://github.com/baohg1108) - Coming soon ! 
-- 🚇 [E-commerce-Frontend](https://github.com/baohg1108) - End !
-- 🎚️ [Boardy-Backend](https://github.com/baohg1108) - Clone Trello app 
-- 🚀 [Boardy-Frontend](https://github.com/baohg1108) - Clone Trello app
-- Coming soon !
+👉 https://github.com/baohg1108  
+
 ---
 
-## 🚀 Last Projects
+### 🧾 E-commerce Backend (Express.js)
+- **Description**:  
+  Backend system for an e-commerce website  
+- **Main Work**:
+  - Design RESTful APIs  
+  - Implement authentication and authorization  
+  - Manage products, users, and orders  
+- **Tech Stack**:  
+  Node.js, Express, MySQL  
+- **Status**: Coming soon  
 
+👉 https://github.com/baohg1108  
 
-- 🦞 [Project_Java_UT](https://github.com/baohg1108) - Application management EVM  
-- 🚇 [Project_System_Operating_UT](https://github.com/baohg1108) - Traffic violation detection app and and send notifications to the nearest authorities for handling, inheriting from the ITS project
-- 🎚️ [Project_Management_UT](https://github.com/baohg1108) - A simple application for optimizing database queries
-- 🎚️ [Project_ITS_UT](https://github.com/baohg1108) - Traffic violation detection app use YOLOv8 
+---
+
+### 🚲 Bicycle Marketplace (PHP)
+- **Description**:  
+  A simple marketplace for buying and selling bicycles  
+- **Main Work**:
+  - Build core features (CRUD products, user management)  
+  - Implement basic authentication  
+  - Work with MySQL database  
+- **Tech Stack**:  
+  PHP, MySQL  
+- **Status**: In progress  
+
+👉 https://github.com/baohg1108  
+
+---
+
+## 🧪 Academic Projects
+
+### 🚦 Intelligent Traffic System (ITS)
+- Detect traffic violations using YOLOv8  
+- Work with AI model and video data  
+
+---
+
+### 🚓 Traffic Management System
+- Store and manage violation data  
+- Send notifications to related authorities  
+
+---
+
+### ⚙️ Database Optimization Tool
+- Analyze SQL queries  
+- Improve query performance  
+
+---
+
+## 📈 Current Focus
+
+- Backend development (API, authentication, database design)  
+- Writing clean and maintainable code  
+- Improving problem-solving skills  
+
+---
+
 ## 🌐 Connect With Me
 
-* 📘 Facebook: facebook/gbao1108
-* 📧 Email: [baohg2455@gmail.com](mailto:baohg2455@gmail.com)
-* 📱 Zalo: +84388661185
-
-
----
-
-## ⚡ Fun Fact
-
-* 🦄 I like unicorns
-* ⚽ I play football
-* 🎮 I play video games
-* 🤖 I love automation tools
-
-
+- 📘 Facebook: facebook/gbao1108  
+- 📧 Email: baohg2455@gmail.com  
+- 📱 Zalo: +84 388 661 185  
