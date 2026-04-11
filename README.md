@@ -1,121 +1,145 @@
-# Hi, I'm Hoàng Gia Bảo 👋
+# Hi, I'm Hoang Gia Bao 👋
 
-🎓 IT Student | 💻 Backend Engineer  
+🎓 3rd-year IT Student | 💻 Backend Engineer  
 📍 Ho Chi Minh City, Vietnam  
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 3rd-year Information Technology student  
-- 💻 Focus on Backend Development  
-- ⚙️ Building real-world projects to improve practical skills  
-- 📚 Learning API design, database design, and system thinking  
+Backend-focused engineer with hands-on experience in designing and building scalable systems.
 
-> *“Keep building. Keep learning.”*
+- Experienced in building real-world applications with clean architecture  
+- Strong understanding of RESTful APIs, authentication, and database design  
+- Interested in system design, performance optimization, and distributed systems  
+- Actively seeking Backend Intern opportunities  
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages**
-- JavaScript, TypeScript, PHP (basic), Go (basic)  
+**Languages**  
+JavaScript, TypeScript, Java, C/C++, Go (basic), PHP (basic)
 
-**Backend**
-- Node.js (Express, Next.js)  
-- PHP (Laravel - basic)
+**Backend**  
+Node.js (Express), RESTful API Design, Authentication (JWT, RBAC)  
 
-**Frontend**
-- Next.js  
-- HTML, CSS  
+**Frontend**  
+Next.js, Tailwind CSS  
 
-**Database**
-- MySQL, MongoDB, Prisma  
+**Database**  
+MySQL, MongoDB, Prisma ORM  
 
-**Tools**
-- Redis, Docker  
-- Git, GitHub, Postman  
-- Trello, Swagger  
+**DevOps & Tools**  
+Docker, Redis, Git, GitHub, Postman, Swagger  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🛒 Multi-Vendor E-commerce (Next.js)
-- **Description**:  
-  E-commerce platform supporting multiple vendors  
-- **Main Work**:
-  - Build backend APIs and integrate with Next.js frontend  
-  - Implement authentication and role management (user / vendor / admin)  
-  - Handle product, order, and basic cart features  
-- **Tech Stack**:  
-  Next.js, Node.js, MySQL  
-- **Status**: Coming soon  
+### 🛒 Multi-Vendor E-commerce Platform
+> Scalable e-commerce system supporting multiple vendors
 
-👉 https://github.com/baohg1108  
+**Architecture Highlights:**
+- Role-Based Access Control (User / Vendor / Admin)  
+- Modular backend structure (controller → service → repository)  
+- RESTful API design following best practices  
 
----
+**Key Features:**
+- Authentication & Authorization (JWT + RBAC)  
+- Product / Order / Cart management  
+- Vendor-specific dashboard  
 
-### 🧾 E-commerce Backend (Express.js)
-- **Description**:  
-  Backend system for an e-commerce website  
-- **Main Work**:
-  - Design RESTful APIs  
-  - Implement authentication and authorization  
-  - Manage products, users, and orders  
-- **Tech Stack**:  
-  Node.js, Express, MySQL  
-- **Status**: Coming soon  
+**Tech Stack:**  
+Next.js, Node.js, MySQL, Prisma, Redis  
 
-👉 https://github.com/baohg1108  
+**Engineering Focus:**
+- Designed relational database schema for scalability  
+- Optimized API response time using caching (Redis)  
+- Structured codebase for maintainability  
+
+🔗 Demo: (add)  
+🔗 Repo: https://github.com/baohg1108  
 
 ---
 
-### 🚲 Bicycle Marketplace (PHP)
-- **Description**:  
-  A simple marketplace for buying and selling bicycles  
-- **Main Work**:
-  - Build core features (CRUD products, user management)  
-  - Implement basic authentication  
-  - Work with MySQL database  
-- **Tech Stack**:  
-  PHP, MySQL  
-- **Status**: In progress  
+### 🧾 E-commerce Backend System
+> Backend service designed with scalability and clean architecture
 
-👉 https://github.com/baohg1108  
+**Architecture Highlights:**
+- Layered architecture (Controller - Service - Repository)  
+- Separation of concerns & reusable modules  
+
+**Key Features:**
+- Authentication & Authorization (JWT)  
+- CRUD operations with validation  
+- Error handling & middleware system  
+
+**Tech Stack:**  
+Node.js, Express, MySQL, Prisma, Docker  
+
+**Engineering Focus:**
+- Applied clean code principles  
+- Built reusable service layer  
+- Containerized application using Docker  
+
+🔗 Repo: https://github.com/baohg1108  
+
+---
+
+### 🚲 Bicycle Marketplace
+> Marketplace platform built with Laravel
+
+**Key Features:**
+- CRUD system for products  
+- Authentication system  
+- Database relationship handling  
+
+**Tech Stack:**  
+Laravel, PHP, MySQL  
 
 ---
 
 ## 🧪 Academic Projects
 
-### 🚦 Intelligent Traffic System (ITS)
-- Detect traffic violations using YOLOv8  
-- Work with AI model and video data  
-
----
+### 🚦 Intelligent Traffic System (YOLOv8)
+- Applied computer vision to detect traffic violations  
+- Processed video data and integrated AI model  
 
 ### 🚓 Traffic Management System
-- Store and manage violation data  
-- Send notifications to related authorities  
+- Designed system for managing violation data  
+- Implemented notification flow  
+
+### ⚙️ Database Optimization Tool
+- Analyzed SQL queries  
+- Improved query performance and indexing  
 
 ---
 
-### ⚙️ Database Optimization Tool
-- Analyze SQL queries  
-- Improve query performance  
+## 🧩 Engineering Skills
+
+- Design RESTful APIs following best practices  
+- Build scalable backend systems with modular architecture  
+- Database design (normalization, indexing, relationships)  
+- Debugging & performance optimization  
+- Version control with Git (feature branch workflow)  
 
 ---
 
 ## 📈 Current Focus
 
-- Backend development (API, authentication, database design)  
-- Writing clean and maintainable code  
-- Improving problem-solving skills  
+- System Design (Scalability, High Availability)  
+- Backend Performance Optimization  
+- Writing production-level code  
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Contact
 
-- 📘 Facebook: facebook/gbao1108  
 - 📧 Email: baohg2455@gmail.com  
 - 📱 Zalo: +84 388 661 185  
+- 📘 Facebook: facebook/gbao1108  
+
+---
+
+⭐ *I build systems, not just features.*
