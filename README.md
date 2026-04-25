@@ -19,7 +19,7 @@ Backend-focused engineer with hands-on experience in designing and building scal
 ## ⚙️ Tech Stack
 
 **Languages**  
-JavaScript, TypeScript, Java, C/C++, Go (basic), PHP (basic)
+JavaScript, TypeScript, C/C++, PHP (basic)
 
 **Backend**  
 Node.js (Express), RESTful API Design, Authentication (JWT, RBAC)  
